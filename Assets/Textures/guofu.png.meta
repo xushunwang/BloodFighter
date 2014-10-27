@@ -1,0 +1,1488 @@
+fileFormatVersion: 2
+guid: 4166b9fbc2d24af4284a049722386d9b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guofu_0
+    21300002: guofu_1
+    21300004: guofu_2
+    21300006: guofu_3
+    21300008: guofu_4
+    21300010: guofu_5
+    21300012: guofu_6
+    21300014: guofu_7
+    21300016: guofu_8
+    21300018: guofu_9
+    21300020: guofu_10
+    21300022: guofu_11
+    21300024: guofu_12
+    21300026: guofu_13
+    21300028: guofu_14
+    21300030: guofu_15
+    21300032: guofu_16
+    21300034: guofu_17
+    21300036: guofu_18
+    21300038: guofu_19
+    21300040: guofu_20
+    21300042: guofu_21
+    21300044: guofu_22
+    21300046: guofu_23
+    21300048: guofu_24
+    21300050: guofu_25
+    21300052: guofu_26
+    21300054: guofu_27
+    21300056: guofu_28
+    21300058: guofu_29
+    21300060: guofu_30
+    21300062: guofu_31
+    21300064: guofu_32
+    21300066: guofu_33
+    21300068: guofu_34
+    21300070: guofu_35
+    21300072: guofu_36
+    21300074: guofu_37
+    21300076: guofu_38
+    21300078: guofu_39
+    21300080: guofu_40
+    21300082: guofu_41
+    21300084: guofu_42
+    21300086: guofu_43
+    21300088: guofu_44
+    21300090: guofu_45
+    21300092: guofu_46
+    21300094: guofu_47
+    21300096: guofu_48
+    21300098: guofu_49
+    21300100: guofu_50
+    21300102: guofu_51
+    21300104: guofu_52
+    21300106: guofu_53
+    21300108: guofu_54
+    21300110: guofu_55
+    21300112: guofu_56
+    21300114: guofu_57
+    21300116: guofu_58
+    21300118: guofu_59
+    21300120: guofu_60
+    21300122: guofu_61
+    21300124: guofu_62
+    21300126: guofu_63
+    21300128: guofu_64
+    21300130: guofu_65
+    21300132: guofu_66
+    21300134: guofu_67
+    21300136: guofu_68
+    21300138: guofu_69
+    21300140: guofu_70
+    21300142: guofu_71
+    21300144: guofu_72
+    21300146: guofu_73
+    21300148: guofu_74
+    21300150: guofu_75
+    21300152: guofu_76
+    21300154: guofu_77
+    21300156: guofu_78
+    21300158: guofu_79
+    21300160: guofu_80
+    21300162: guofu_81
+    21300164: guofu_82
+    21300166: guofu_83
+    21300168: guofu_84
+    21300170: guofu_85
+    21300172: guofu_86
+    21300174: guofu_87
+    21300176: guofu_88
+    21300178: guofu_89
+    21300180: guofu_90
+    21300182: guofu_91
+    21300184: guofu_92
+    21300186: guofu_93
+    21300188: guofu_94
+    21300190: guofu_95
+    21300192: guofu_96
+    21300194: guofu_97
+    21300196: guofu_98
+    21300198: guofu_99
+    21300200: guofu_100
+    21300202: guofu_101
+    21300204: guofu_102
+    21300206: guofu_103
+    21300208: guofu_104
+    21300210: guofu_105
+    21300212: guofu_106
+    21300214: guofu_107
+    21300216: guofu_108
+    21300218: guofu_109
+    21300220: guofu_110
+    21300222: guofu_111
+    21300224: guofu_112
+    21300226: guofu_113
+    21300228: guofu_114
+    21300230: guofu_115
+    21300232: guofu_116
+    21300234: guofu_117
+    21300236: guofu_118
+    21300238: guofu_119
+    21300240: guofu_120
+    21300242: guofu_121
+    21300244: guofu_122
+    21300246: guofu_123
+    21300248: guofu_124
+    21300250: guofu_125
+    21300252: guofu_126
+    21300254: guofu_127
+    21300256: guofu_128
+    21300258: guofu_129
+    21300260: guofu_130
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: guofu_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1170
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1170
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1170
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1171
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1171
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1171
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1130
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1130
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1130
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1130
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1136
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1131
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1090
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1090
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1090
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1050
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1050
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1050
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1050
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1050
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1050
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1010
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1010
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1010
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1010
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1010
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 970
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 970
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 970
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 970
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 970
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 930
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 931
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 937
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 937
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 930
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 895
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 894
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 895
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 894
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 851
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 851
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 851
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 851
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 854
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 811
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 811
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 811
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 812
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 816
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 794
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 751
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 751
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 751
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 751
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 752
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 708
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 708
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_58
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 708
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_59
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 708
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 708
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 681
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 682
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 682
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 681
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 631
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 631
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 631
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_68
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 631
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_69
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 633
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 588
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_71
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 588
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_72
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 588
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 588
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_74
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 588
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_75
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 561
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 562
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_77
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 562
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 561
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 511
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_80
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 511
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_81
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 511
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 511
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 514
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 468
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 467
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_86
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 471
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_87
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 473
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_88
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 474
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 440
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_91
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 374
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_92
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 374
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_93
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 374
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 375
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_95
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 375
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_96
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 314
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_97
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 321
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_98
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 322
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 326
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 289
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_101
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_102
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 289
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 289
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 226
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_105
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 226
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_106
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 226
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 226
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_108
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 226
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_109
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 175
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_110
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 175
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 181
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_112
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_113
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 186
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_114
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 149
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_116
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 152
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 149
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_118
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 83
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_119
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 83
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_120
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 83
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 85
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_122
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 85
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_123
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 24
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_124
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_125
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 33
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_126
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 35
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_127
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_128
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_129
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guofu_130
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
