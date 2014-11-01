@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: b6d64fac59855b543b753dd506c42ed0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jump_y_attack_0
+    21300002: jump_y_attack_1
+    21300004: jump_y_attack_2
+    21300006: jump_y_attack_3
+    21300008: jump_y_attack_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jump_y_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 55
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_y_attack_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 11
+        width: 54
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_y_attack_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6
+        width: 57
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_y_attack_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 46
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump_y_attack_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 43
+        height: 87
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
