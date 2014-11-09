@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 public class BFColliderSprite : BFSprite {
-
+	[HideInInspector]
 	public BFColliderCollection currentColliderCollection = null;
 	public Dictionary<string,BFColliderCollection> colliderMap = new Dictionary<string, BFColliderCollection>();
 
@@ -30,8 +30,18 @@ public class BFColliderSprite : BFSprite {
 		}
 	}
 
-	public virtual void OnAnimateChange(string animateName)
+	public override void OnAnimationChange(string preName,string nowAnimateName)
 	{
-		ChangeColliderCollection(animateName);
+		ChangeColliderCollection(nowAnimateName);
 	}
+
+	/// <summary>
+	/// 给动画回调用的方法，用virtual的标记他不识别
+	/// </summary>
+	/// <param name="index">Index.</param>
+	public void OnSpriteFrameAtIndex(int index)
+	{
+		OnSpriteAnimateAtIndex(index);
+	}
+
 }

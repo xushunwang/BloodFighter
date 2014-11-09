@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 public class BFHitSprite : BFColliderSprite {
-
+	[HideInInspector]
 	public BFColliderCollection currentHitCollection = null;
 	public Dictionary<string,BFColliderCollection> hitMap = new Dictionary<string, BFColliderCollection>();
 	
@@ -28,9 +28,9 @@ public class BFHitSprite : BFColliderSprite {
 		}
 	}
 
-	public override void OnAnimateChange (string animateName)
+	public override void OnAnimationChange(string preName,string nowAnimateName)
 	{
-		base.OnAnimateChange(animateName);
-		ChangeHitCollection(animateName);
+		base.OnAnimationChange(preName,nowAnimateName);
+		ChangeHitCollection(nowAnimateName);
 	}
 }
