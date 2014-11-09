@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Hero : Actor {
-
+public class BFBuilding : BFColliderSprite {
 
 }
