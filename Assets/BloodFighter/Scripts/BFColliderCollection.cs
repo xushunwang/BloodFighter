@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class BFColliderCollection : MonoBehaviour {
-	public string name;
+	public string actionName;
 	public BFCollider[] colliders;
 
 	/// <summary>
