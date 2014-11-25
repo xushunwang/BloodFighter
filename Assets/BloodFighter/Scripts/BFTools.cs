@@ -37,4 +37,31 @@ public class BFTools  {
 
 		return index;
 	}
+
+	/// <summary>
+	/// 根据transform的名字排序
+	/// </summary>
+	public static int SortTransformByName(Transform a,Transform b)
+	{
+		return string.Compare(a.name, b.name);
+	}
+
+	/// <summary>
+	/// transform数组按照名字从小到大排序
+	/// </summary>
+	public static void SortTransformByName(Component[] comps)
+	{
+		for(int i = 0 ; i < comps.Length - 1; i++)
+		{
+			for(int j = 0 ; j < comps.Length - i - 1 ; j++)
+			{
+				if(string.Compare( comps[j].name,comps[j + 1].name) > 0)
+				{
+					Component temp = comps[j];
+					comps[j] = comps[j + 1];
+					comps[j + 1] = temp;
+				}
+			}
+		}
+	}
 }

@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEditor;
+using System.Collections.Generic;
 
 [CustomEditor(typeof(BFColliderCollection))]
 public class BFColliderCollectionEditor : Editor {
@@ -18,20 +19,32 @@ public class BFColliderCollectionEditor : Editor {
 		}
 		else
 		{
-			Debug.LogError("BFColliderCollection必须绑定在BFSprite组件节点下");
+			Debug.LogError("BFColliderCollection must be the child of BFSprite component!");
 		}
 
-		//NGUIEditorTools.BeginContents();
+		NGUIEditorTools.BeginContents();
 		if(NGUIEditorTools.DrawHeader("Colliders"))
 		{
-			for(int i = 0; i < 3; i++)
+			BFCollider[] childColliders = collection.GetComponentsInChildren<BFCollider>(true);
+			if(childColliders.Length > 0)
 			{
-				//EditorGUILayout.LabelField("collider" + i);
-				EditorGUILayout.ObjectField("collider" + i, null, typeof(BFCollider), true);
+				BFTools.SortTransformByName(childColliders);
+				collection.colliders = childColliders;
+				for(int i = 0; i < childColliders.Length; i++)
+				{
+					EditorGUILayout.ObjectField("collider" + i, childColliders[i], typeof(BFCollider), true);
+				}
 			}
+			else
+			{
+				EditorGUILayout.LabelField("No BFCollider in children!");
+			}
+
 		}
 
 		//GUILayout.Toggle(true, "Colliders", "dragtab", GUILayout.MinWidth(20f));
-		//NGUIEditorTools.EndContents();
+		NGUIEditorTools.EndContents();
+
+		Debug.Log("Editor Code : " + this.GetHashCode());
 	}
 }
