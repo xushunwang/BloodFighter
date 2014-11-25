@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class BFTools  {
 
@@ -18,6 +19,32 @@ public class BFTools  {
 			parent = parent.parent;
 		}
 		return null;
+	}
+
+	/// <summary>
+	/// 循环遍历子节点找对应的脚本
+	/// </summary>
+	public static List<T> GetComponentInChildren<T>(Transform t) where T : Component
+	{
+		List<T> list = new List<T>();
+
+		FindComponentInChildren(t,list);
+
+		return list;
+	}
+	/// <summary>
+	/// 遍历自己循环找对应脚本
+	/// </summary>
+	static void FindComponentInChildren<T>(Transform t,List<T> list) where T : Component
+	{
+		T comp = t.GetComponent<T>();
+		if(comp != null)
+			list.Add(comp);
+
+		foreach(Transform trans in t)
+		{
+			FindComponentInChildren<T>(trans,list);
+		}
 	}
 
 	/// <summary>

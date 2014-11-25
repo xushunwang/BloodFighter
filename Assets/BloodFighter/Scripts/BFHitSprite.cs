@@ -1,17 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
-using System.Collections.Generic;
 
 public class BFHitSprite : BFColliderSprite {
 	[HideInInspector]
 	public BFColliderCollection currentHitCollection = null;
-	public Dictionary<string,BFColliderCollection> hitMap = new Dictionary<string, BFColliderCollection>();
+
+	public BFActionColliderMap hitMap = new BFActionColliderMap();
 	
 	public void ChangeHitCollection(string name)
 	{
 		if(hitMap.ContainsKey(name))
 		{
-			currentHitCollection = hitMap[name];
+			currentHitCollection = hitMap.Get(name);
 		}
 		else
 		{

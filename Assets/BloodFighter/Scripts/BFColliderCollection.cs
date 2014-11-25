@@ -1,7 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+public enum BFColliderCollectionType
+{
+	HitBox,
+	ColliderBox
+}
+
 public class BFColliderCollection : MonoBehaviour {
+	public BFColliderCollectionType type;
 	public string actionName;
 	public BFCollider[] colliders;
 

@@ -5,13 +5,13 @@ using System.Collections.Generic;
 public class BFColliderSprite : BFSprite {
 	[HideInInspector]
 	public BFColliderCollection currentColliderCollection = null;
-	public Dictionary<string,BFColliderCollection> colliderMap = new Dictionary<string, BFColliderCollection>();
+	public BFActionColliderMap colliderMap = new BFActionColliderMap();
 
 	public void ChangeColliderCollection(string name)
 	{
 		if(colliderMap.ContainsKey(name))
 		{
-			currentColliderCollection = colliderMap[name];
+			currentColliderCollection = colliderMap.Get(name);
 		}
 		else
 		{

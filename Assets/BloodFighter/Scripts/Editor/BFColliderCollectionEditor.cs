@@ -2,6 +2,8 @@
 using UnityEditor;
 using System.Collections.Generic;
 
+
+
 [CustomEditor(typeof(BFColliderCollection))]
 public class BFColliderCollectionEditor : Editor {
 
@@ -9,6 +11,11 @@ public class BFColliderCollectionEditor : Editor {
 	{
 		BFColliderCollection collection = target as BFColliderCollection;
 
+		//选hit类型
+		string[] typeNames = System.Enum.GetNames(typeof(BFColliderCollectionType));
+		collection.type = (BFColliderCollectionType)EditorGUILayout.Popup("TypeName", (int)collection.type, typeNames);
+
+		//选动作名
 		BFSprite actor = BFTools.FindComponentInParent<BFSprite>(collection.transform);
 		if(actor != null)
 		{
@@ -21,7 +28,7 @@ public class BFColliderCollectionEditor : Editor {
 		{
 			Debug.LogError("BFColliderCollection must be the child of BFSprite component!");
 		}
-
+		//显示包含的碰撞器
 		NGUIEditorTools.BeginContents();
 		if(NGUIEditorTools.DrawHeader("Colliders"))
 		{
