@@ -22,10 +22,10 @@ public class BFHitSprite : BFColliderSprite {
 	public override void OnSpriteAnimateAtIndex (int index)
 	{
 		base.OnSpriteAnimateAtIndex(index);
-		if(currentHitCollection != null) 
-		{
-			currentHitCollection.SetColliderBoxIndex(index);
-		}
+//		if(currentHitCollection != null) 
+//		{
+//			currentHitCollection.SetColliderBoxIndex(index);
+//		}
 	}
 
 	public override void OnAnimationChange(string preName,string nowAnimateName)

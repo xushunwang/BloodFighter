@@ -24,10 +24,10 @@ public class BFColliderSprite : BFSprite {
 	/// <param name="index">Index.</param>
 	public virtual void OnSpriteAnimateAtIndex(int index)
 	{
-		if(currentColliderCollection != null) 
-		{
-			currentColliderCollection.SetColliderBoxIndex(index);
-		}
+//		if(currentColliderCollection != null) 
+//		{
+//			currentColliderCollection.SetColliderBoxIndex(index);
+//		}
 	}
 
 	public override void OnAnimationChange(string preName,string nowAnimateName)
